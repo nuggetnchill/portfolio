@@ -1,5 +1,6 @@
-# portfolio
-  Personal Portfolio Website
+# Justin Nguyen - Portfolio Website
+
+Deployed site:
 
 ------
 
@@ -9,6 +10,5 @@ For this project, I utilised the following technologies:
 
 - HTML5
 - CSS3
-- SASS
 - Git & GitHub
 - GitHub io deployment platform
