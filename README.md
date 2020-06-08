@@ -1,4 +1,4 @@
-# Justin Nguyen - Portfolio Website
+## Justin Nguyen - Portfolio Website
 
 Deployed site: https://nuggetnchill.github.io/portfolio/
 
