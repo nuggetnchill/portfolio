@@ -3,6 +3,7 @@
 Deployed site: https://nuggetnchill.github.io/portfolio/
 
 ------
+![Screenshot](https://media.giphy.com/media/L18BrRolc8X8SN0q70/giphy.gif)
 
 ### **Description**
 
